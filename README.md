@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**mustafademir06/mustafademir06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +10,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/78317220/190580600-edd928b9-0191-4b8a-b1f5-b74fd09a5df4.gif)
+
+[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](www.linkedin.com/in/mustafademir06)
+
+<p align="center">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mustafademir06&theme=TEMA-İSMİ&show_icons=true&count_private=true)"/>
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mustafademir06&layout=compact&langs_count=8&theme=midnight-purple"/>
+</p>
+
